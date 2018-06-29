@@ -1,0 +1,20 @@
+body {
+	font-family: 'Nunito', sans-serif;
+}
+
+a {
+	color: #706C61;
+}
+
+.circle {
+	border-radius: 100%;
+}
+
+.navbar-default {
+    background-color: #D0CCD0;
+    border-color: #e7e7e7;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #533747;
+}
